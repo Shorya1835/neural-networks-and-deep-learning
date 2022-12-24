@@ -6,7 +6,7 @@ Draws images based on the MNIST data."""
 
 #### Libraries
 # Standard library
-import cPickle
+import _pickle as cPickle
 import sys
 
 # My library
